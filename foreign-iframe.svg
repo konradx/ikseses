@@ -12,10 +12,7 @@
 
   <!-- Common use case: embed HTML text into SVG -->
   <foreignObject x="20" y="20" width="160" height="160">
-    <iframe xmlns="http://www.w3.org/1999/xhtml" 
-srcdoc="&lt;script
- src='data:text/javascript,parent.postMessage(&quot;a&quot;, &quot;*&quot;)'
-&gt;&lt;/script&gt;" />
+    <iframe srcdoc="&lt;img src&equals;x:x onerror&equals;alert&lpar;1&rpar;&gt;" />
   </foreignObject>
 </svg>
 
