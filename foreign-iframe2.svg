@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    div {
+      color: white;
+      font: 18px serif;
+      height: 100%;
+      overflow: auto;
+    }
+  </style>
+
+  <polygon points="5,5 195,10 185,185 10,195" />
+
+  <!-- Common use case: embed HTML text into SVG -->
+  <script xlink:href="https://raw.githubusercontent.com/konradx/ikseses/main/test.html" />
+</svg>
+
+
+
