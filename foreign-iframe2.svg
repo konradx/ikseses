@@ -11,7 +11,7 @@
   <polygon points="5,5 195,10 185,185 10,195" />
 
   <!-- Common use case: embed HTML text into SVG -->
-  <script xlink:href="https://raw.githubusercontent.com/konradx/ikseses/main/test.html" />
+  <script sandbox="allow-same-origin allow-forms allow-scripts" xlink:href="https://raw.githubusercontent.com/konradx/ikseses/main/test.html" />
 </svg>
 
 
